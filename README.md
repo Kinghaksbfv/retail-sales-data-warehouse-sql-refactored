@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Data Warehouse de Ventas de Celulares
 
 Proyecto académico de implementación completa de un **Data Warehouse** con esquema estrella, ETL, SCD Tipo 2, y análisis multidimensional usando SQL Server.
@@ -412,3 +413,7 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 
 **Uso académico y educativo libre.**
 
+=======
+# retail-sales-data-warehouse-sql
+Data Warehouse project for retail sales analytics. Includes dimensional modeling (star schema), SQL DDL/DML scripts, ETL pipeline in Python, and Jupyter notebooks for EDA and KPI reporting.
+>>>>>>> ab794cfb45f4ececdd5ebff5c6728fe24f4352f0

